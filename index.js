@@ -32,4 +32,7 @@ function iLoveTheBeatles(num) {
     muchLove.push("I love the Beatles!");
     k++;
   }
+  while (k < 15);
+  
+  return muchLove;
 }
