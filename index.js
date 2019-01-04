@@ -30,9 +30,9 @@ function iLoveTheBeatles(num) {
   
   do {
     muchLove.push("I love the Beatles!");
-    k++;
+    num++;
   }
-  while (k < 15);
+  while (num < 15);
   
   return muchLove;
 }
