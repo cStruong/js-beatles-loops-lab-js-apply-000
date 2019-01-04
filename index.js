@@ -21,4 +21,7 @@ function johnLennonFacts(arrF) {
     
     j++;
   }
+  
+  return factsArr;
 }
+
