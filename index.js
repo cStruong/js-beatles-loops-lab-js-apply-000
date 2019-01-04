@@ -12,9 +12,13 @@ function theBeatlesPlay(arrM, arrI) {
 }
 
 function johnLennonFacts(arrF) {
+  var factsArr = [];
+  
   var j = 0;
   
   while (j < arrF.length) {
+    factsArr.push(arrF[j] + '!!!');
     
+    j++;
   }
 }
